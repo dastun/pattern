@@ -12,8 +12,8 @@ public class pattern4 {
 	        // using for loop
 	        for (int i = 1; i <= 15; i++) {
 	            // printing the N*i,ie ith multiple of N.
-	            System.out.println(N + " * " + i + " = "
-	                               + N * i);
+	            System.out.println(N + " * " + i + " = "  + N * i);
+			
 	        }
 	    }
 	
