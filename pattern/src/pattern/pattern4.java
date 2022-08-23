@@ -7,7 +7,7 @@ public class pattern4 {
 	        // multiplication table.
 	        int N = 3;
 	  
-	        // looping from 1 to 10 to print the multiplication
+	        // looping from 1 to 15 to print the multiplication
 	        // table of the number.
 	        // using for loop
 	        for (int i = 1; i <= 15; i++) {
